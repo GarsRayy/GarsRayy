@@ -12,8 +12,10 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-Connect-D32F2F?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=111111" /></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-Contact-D32F2F?style=for-the-badge&logo=gmail&logoColor=white&labelColor=111111" /></a>
+  <a href="https://linkedin.com/in/GarisRayyaRabbani"><img src="https://img.shields.io/badge/LinkedIn-Connect-D32F2F?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=111111" /></a>
+  <a href="mailto:garisrayya@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D32F2F?style=for-the-badge&logo=gmail&logoColor=white&labelColor=111111" /></a>
+  <a href="https://www.instagram.com/gars_rayya?igsh=MWgweGVlMWJxbGc2aA=="><img src="https://img.shields.io/badge/Instagram-Follow-D32F2F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=111111" /></a>
+  <a href="https://www.threads.com/@gars_rayya"><img src="https://img.shields.io/badge/Threads-Follow-D32F2F?style=for-the-badge&logo=threads&logoColor=white&labelColor=111111" /></a>
 </p>
 
 <p align="center">
